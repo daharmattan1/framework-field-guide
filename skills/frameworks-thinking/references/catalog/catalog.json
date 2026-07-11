@@ -1,0 +1,953 @@
+{
+  "_meta": {
+    "version": "0.1-unverified",
+    "generated_by": "PRD 2026-07-10_operating-frameworks-substrate-gap-map",
+    "taxonomy": "three-taxon (operating/thinking/domains) + facets; layer NOT in ID",
+    "total_units": 43,
+    "status": "catalog_v0.1_grounded (frozen release)",
+    "frozen": "2026-07-10"
+  },
+  "OP-4dx": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/4dx.md",
+    "facets": {
+      "school": "franklincovey",
+      "thinkers": [
+        "mcchesney",
+        "covey",
+        "huling"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-aarrr": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/aarrr.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "mcclure"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-kpis-north-star"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-agile-scrum": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/agile-scrum.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "schwaber",
+        "sutherland"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-kanban"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-balanced-scorecard": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/balanced-scorecard.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "kaplan",
+        "norton"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-blue-ocean": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/blue-ocean.md",
+    "facets": {
+      "school": "insead",
+      "thinkers": [
+        "kim",
+        "mauborgne"
+      ],
+      "lifecycle": "contested",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-bowtie": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/bowtie.md",
+    "facets": {
+      "school": "winning-by-design",
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-cascading-okrs": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/cascading-okrs.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "contested",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-commanders-intent": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/commanders-intent.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "klein"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-single-threaded-ownership"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-daci": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/daci.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-raci",
+        "OP-rapid"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-dora": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/dora.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "forsgren",
+        "humble",
+        "kim"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-space",
+        "OP-theory-of-constraints",
+        "OP-kanban"
+      ],
+      "conflicts": [
+        "OP-itil-waterfall"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-eos-traction": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/eos-traction.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "wickman"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [],
+      "conflicts": [
+        "OP-okrs"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-gist": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/gist.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "gilad"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": "AUTHOR_EQUITY"
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-gotta-believes": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/gotta-believes.md",
+    "facets": {
+      "school": "roger-martin",
+      "thinkers": [
+        "martin"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-hoshin-kanri": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/hoshin-kanri.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "akao"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-jtbd": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/jtbd.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "christensen"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-kanban": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/kanban.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "anderson"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-theory-of-constraints",
+        "OP-dora"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-kpis-north-star": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/kpis-north-star.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "ellis"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-okrs",
+        "OP-aarrr",
+        "OP-dora"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-lean-tps": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/lean-tps.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "ohno"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-lesser-alignment": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/_lesser-alignment.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "skelton",
+        "pais"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-lesser-execution": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/_lesser-execution.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-lesser-measurement": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/_lesser-measurement.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-lesser-strategy": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/_lesser-strategy.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "collins",
+        "porras",
+        "boyd"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "ABSENT",
+        "coi": null
+      },
+      "combines": [
+        "OP-mckinsey-7s"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-mbo": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/mbo.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "drucker"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [
+        "OP-okrs"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-mckinsey-7s": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/mckinsey-7s.md",
+    "facets": {
+      "school": "mckinsey",
+      "thinkers": [
+        "peters",
+        "waterman"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-now-next-later": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/now-next-later.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "bastow",
+        "cast"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-okrs": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/okrs.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "grove",
+        "doerr"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-4dx",
+        "OP-rapid",
+        "OP-daci",
+        "OP-prioritization",
+        "OP-dora",
+        "OP-kpis-north-star"
+      ],
+      "conflicts": [
+        "OP-mbo",
+        "OP-eos-traction",
+        "OP-hoshin-kanri"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-playing-to-win": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/playing-to-win.md",
+    "facets": {
+      "school": "roger-martin",
+      "thinkers": [
+        "lafley",
+        "martin"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "AUTHOR_EQUITY"
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-prioritization": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/prioritization.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "ellis",
+        "clegg",
+        "reinertsen"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-okrs"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-raci": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/raci.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-daci",
+        "OP-rapid"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-rapid": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/rapid.md",
+    "facets": {
+      "school": "bain",
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [
+        "OP-okrs",
+        "OP-raci",
+        "OP-daci"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-rite": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/rite.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "medlock"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-safe": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/safe.md",
+    "facets": {
+      "school": "scaled-agile",
+      "thinkers": [
+        "leffingwell"
+      ],
+      "lifecycle": "contested",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "PRACTITIONER_ORG"
+      },
+      "combines": [
+        "OP-prioritization"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-shape-up": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/shape-up.md",
+    "facets": {
+      "school": "basecamp",
+      "thinkers": [
+        "singer"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [],
+      "conflicts": [
+        "OP-agile-scrum"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-single-threaded-ownership": {
+    "taxon": "operating",
+    "layer": "alignment",
+    "path": "operating/alignment/single-threaded-ownership.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-working-backwards",
+        "OP-commanders-intent"
+      ],
+      "conflicts": [
+        "OP-safe"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-six-sigma": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/six-sigma.md",
+    "facets": {
+      "school": null,
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [
+        "OP-agile-scrum",
+        "TH-design-thinking",
+        "OP-blue-ocean",
+        "OP-gist",
+        "OP-three-horizons"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-space": {
+    "taxon": "operating",
+    "layer": "measurement",
+    "path": "operating/measurement/space.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "forsgren"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-dora"
+      ],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-spotify-model": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/spotify-model.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "kniberg",
+        "ivarsson"
+      ],
+      "lifecycle": "graveyard",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "ABSENT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-theory-of-constraints": {
+    "taxon": "operating",
+    "layer": "execution",
+    "path": "operating/execution/theory-of-constraints.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "goldratt"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "DIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-kanban",
+        "OP-dora"
+      ],
+      "conflicts": [
+        "OP-mbo"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-three-horizons": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/three-horizons.md",
+    "facets": {
+      "school": "mckinsey",
+      "thinkers": [],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-v2mom": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/v2mom.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "benioff"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": "PRACTITIONER_ORG"
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-wardley-mapping": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/wardley-mapping.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "wardley"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "SIGNAL",
+        "efficacy": "INDIRECT",
+        "coi": "FRAMEWORK_OWNER"
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  },
+  "OP-working-backwards": {
+    "taxon": "operating",
+    "layer": "strategy",
+    "path": "operating/strategy/working-backwards.md",
+    "facets": {
+      "school": "amazon",
+      "thinkers": [
+        "bezos"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [
+        "OP-single-threaded-ownership",
+        "OP-jtbd",
+        "OP-shape-up"
+      ],
+      "conflicts": [
+        "OP-agile-scrum"
+      ],
+      "grounding_status": "grounded"
+    }
+  },
+  "TH-cynefin": {
+    "taxon": "thinking",
+    "layer": null,
+    "path": "thinking/cynefin.md",
+    "facets": {
+      "school": null,
+      "thinkers": [
+        "snowden"
+      ],
+      "lifecycle": "canonical",
+      "evidence": {
+        "provenance": "FACT",
+        "efficacy": "INDIRECT",
+        "coi": null
+      },
+      "combines": [],
+      "conflicts": [],
+      "grounding_status": "grounded"
+    }
+  }
+}
