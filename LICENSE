@@ -19,22 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Dual license
-
-- **Code** (the `frameworks-thinking` skill files: `SKILL.md`, `references/*.md`
-  logic, and any scripts) is licensed under the MIT License above.
-- **Content** (the framework catalog prose under
-  `skills/frameworks-thinking/references/catalog/` — OVERVIEW.md, the per-framework
-  reference files, gap_audit.md, bibliography.md, catalog.json) is licensed under
-  **Creative Commons Attribution 4.0 International (CC BY 4.0)**:
-  https://creativecommons.org/licenses/by/4.0/
-
-Attribution for the content: "Framework Field Guide, by Victor Sowers (STEEPWORKS)."
-
-Third-party framework names, trademarks, and the ideas of their originators
-remain the property of their respective owners; this catalog describes and cites
-them under fair use and does not reproduce any copyrighted work in full. See
-LICENSE_LEDGER.md.
