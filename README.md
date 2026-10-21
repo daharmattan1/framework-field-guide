@@ -89,8 +89,8 @@ claim — a different count, because one audited claim can map to more or fewer 
 
 Third-party framework names and the ideas of their originators remain the property of their
 respective owners; this catalog describes and cites them and reproduces no copyrighted work in
-full. See [`LICENSE`](LICENSE) and [`LICENSE_LEDGER.md`](LICENSE_LEDGER.md).
+full. See [`LICENSE`](LICENSE) (code), [`LICENSE-CONTENT`](LICENSE-CONTENT) (catalog), and [`LICENSE_LEDGER.md`](LICENSE_LEDGER.md).
 
 ---
 
-Built by Victor Sowers ([STEEPWORKS](https://steepworks.io)). Catalog and skill released under the licenses in LICENSE.
+Built by Victor Sowers ([STEEPWORKS](https://steepworks.io)). Catalog and skill released under the licenses in LICENSE and LICENSE-CONTENT.
